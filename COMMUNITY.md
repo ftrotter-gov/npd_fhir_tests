@@ -10,4 +10,4 @@ Roles to include, but not limited to: Project Owner, Technical Lead, Developers/
 
 | Role   | Name    | Affiliation    |
 | :----- | :------ | :------------- |
-| {role} | {names} | {affiliations} |
+| Initial| Fred Trotter| CMS |
